@@ -1,0 +1,31 @@
+section:nth-child(2) {
+  height: 100vh;
+}
+
+#sec1-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#sec1-center h1 {
+  font-family: var(--fontdue);
+  text-align: center;
+}
+
+#sec1-center p {
+  font-family: var(--fontuno);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 1.2rem;
+  color: gray;
+  letter-spacing: 2px;
+}
+
+#sec1-center p a {
+  text-decoration: none;
+  color: inherit;
+}
+/*# sourceMappingURL=sec1.css.map */

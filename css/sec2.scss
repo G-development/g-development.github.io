@@ -1,0 +1,45 @@
+section:nth-child(3){
+  height: 50vh;
+}
+
+#sec2-center{
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    h1{
+        font-family: var(--fontdue);
+    }
+    h1,p,a{
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        color: inherit;
+    }
+    a{
+        font-family: var(--fontuno);
+        margin: 10px 0;
+        padding: 6px 0;
+        font-size: x-large;
+    }
+    sup{
+        font-family: var(--fontdue);
+    }
+}
+
+.hovereffect::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 1px;
+    background: #fff;
+    transition: width .3s;
+    }
+
+.hovereffect:hover::after{
+    width: 100%;
+    transition: width .3s;
+}
+  

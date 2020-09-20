@@ -1,0 +1,59 @@
+header, section {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+#header-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+header h1 {
+  font-family: var(--fontuno);
+  font-weight: 300;
+  text-align: center;
+}
+
+header p {
+  font-family: var(--fontdue);
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+#header-bottom {
+  position: absolute;
+  left: 50%;
+  bottom: 5%;
+  -webkit-transform: translate(-50%, -5%);
+          transform: translate(-50%, -5%);
+}
+
+#header-bottom p a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#header-bottom p img {
+  stroke: var(--coloreFont);
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#header-bottom p img:hover {
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  stroke: red;
+}
+
+footer {
+  height: 2vh;
+  font-family: var(--fontuno);
+  text-align: center;
+}
+/*# sourceMappingURL=header.css.map */
