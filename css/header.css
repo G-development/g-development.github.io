@@ -53,7 +53,9 @@ header p {
 
 footer {
   height: 2vh;
+  padding: 50px;
   font-family: var(--fontuno);
   text-align: center;
+  overflow: hidden;
 }
 /*# sourceMappingURL=header.css.map */
