@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.f31bb22d.css",
-    "main.js": "/static/js/main.16c5e53b.js",
+    "main.js": "/static/js/main.6c9d82ff.js",
     "static/js/787.fce2f33d.chunk.js": "/static/js/787.fce2f33d.chunk.js",
     "static/media/me2.jpg": "/static/media/me2.eeb86e601499f0b8de8d.jpg",
     "static/media/network-code.png": "/static/media/network-code.11a366ffd50416176f3a.png",
-    "static/media/snippet.png": "/static/media/snippet.f67241a3106676598874.png",
     "static/media/CV Giovanni Cuozzo.pdf": "/static/media/CV Giovanni Cuozzo.c711526ba4e44da0dede.pdf",
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.c3125fcb226f3bef1c4e274549acb10b.svg",
     "static/media/instagram.svg": "/static/media/instagram.149f0d10ddb65401989d73cbfe2c0f14.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.792a71a6bcfc95514deecf89c4e0b47a.svg",
     "main.f31bb22d.css.map": "/static/css/main.f31bb22d.css.map",
-    "main.16c5e53b.js.map": "/static/js/main.16c5e53b.js.map",
+    "main.6c9d82ff.js.map": "/static/js/main.6c9d82ff.js.map",
     "787.fce2f33d.chunk.js.map": "/static/js/787.fce2f33d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f31bb22d.css",
-    "static/js/main.16c5e53b.js"
+    "static/js/main.6c9d82ff.js"
   ]
 }
