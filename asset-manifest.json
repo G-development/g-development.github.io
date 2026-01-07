@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2963ae63.css",
-    "main.js": "/static/js/main.295d6837.js",
+    "main.css": "/static/css/main.d090bc83.css",
+    "main.js": "/static/js/main.a08692da.js",
     "static/js/453.f6a855eb.chunk.js": "/static/js/453.f6a855eb.chunk.js",
     "static/media/CV Giovanni Cuozzo.pdf": "/static/media/CV Giovanni Cuozzo.91f58569330a617aa6ad.pdf",
     "static/media/FlowWiseScreenshot.png": "/static/media/FlowWiseScreenshot.35bdc80c2366b19134ac.png",
     "index.html": "/index.html",
-    "main.2963ae63.css.map": "/static/css/main.2963ae63.css.map",
-    "main.295d6837.js.map": "/static/js/main.295d6837.js.map",
+    "main.d090bc83.css.map": "/static/css/main.d090bc83.css.map",
+    "main.a08692da.js.map": "/static/js/main.a08692da.js.map",
     "453.f6a855eb.chunk.js.map": "/static/js/453.f6a855eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2963ae63.css",
-    "static/js/main.295d6837.js"
+    "static/css/main.d090bc83.css",
+    "static/js/main.a08692da.js"
   ]
 }
