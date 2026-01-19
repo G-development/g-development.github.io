@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d090bc83.css",
-    "main.js": "/static/js/main.a08692da.js",
+    "main.css": "/static/css/main.2ab51eca.css",
+    "main.js": "/static/js/main.483637f4.js",
     "static/js/453.f6a855eb.chunk.js": "/static/js/453.f6a855eb.chunk.js",
+    "static/media/me2.jpg": "/static/media/me2.eeb86e601499f0b8de8d.jpg",
     "static/media/CV Giovanni Cuozzo.pdf": "/static/media/CV Giovanni Cuozzo.91f58569330a617aa6ad.pdf",
     "static/media/FlowWiseScreenshot.png": "/static/media/FlowWiseScreenshot.35bdc80c2366b19134ac.png",
     "index.html": "/index.html",
-    "main.d090bc83.css.map": "/static/css/main.d090bc83.css.map",
-    "main.a08692da.js.map": "/static/js/main.a08692da.js.map",
+    "main.2ab51eca.css.map": "/static/css/main.2ab51eca.css.map",
+    "main.483637f4.js.map": "/static/js/main.483637f4.js.map",
     "453.f6a855eb.chunk.js.map": "/static/js/453.f6a855eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d090bc83.css",
-    "static/js/main.a08692da.js"
+    "static/css/main.2ab51eca.css",
+    "static/js/main.483637f4.js"
   ]
 }
